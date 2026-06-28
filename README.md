@@ -2,7 +2,7 @@
 
 ### End-to-End Web-Based Academic Resource Management System using HTML, CSS, JavaScript, Node.js, Express.js & MySQL
 
-A centralized platform that enables students to manage academic resources, books, scholarships, internships, and bookmarks through a simple and responsive web interface.
+A centralized web-based academic resource management platform that enables students to access, organize, and manage educational resources, books, scholarships, internships, and bookmarks through a clean, responsive, and user-friendly interface. The application integrates secure user authentication, RESTful APIs, MySQL database management, and complete CRUD operations to simplify academic resource discovery and management..
 
 # 📑 Table of Contents
 
@@ -19,15 +19,14 @@ A centralized platform that enables students to manage academic resources, books
 - [⚙️ Database Configuration](#️-database-configuration)
 
 # 📌 Project Objective
-
-(Add your Project Objective here)
+The objective of this project is to develop a centralized web-based academic resource management system that helps students efficiently access, organize, and manage educational resources from a single platform. The application simplifies the process of discovering study materials, books, scholarships, internships, and bookmarked resources while demonstrating practical implementation of frontend development, backend development, RESTful APIs, MySQL database integration, authentication, and CRUD operations.
 
 # 📂 Project Overview
+Student Academic Resource Hub is a web-based application designed to provide students with a centralized platform for managing academic information and educational opportunities. The system integrates multiple modules, including user authentication, academic resources, books, scholarships, internships, bookmarks, and an admin panel, into a single responsive application.
 
-(Add your Project Overview here)
+The frontend is developed using HTML, CSS, and JavaScript, while the backend is built using Node.js and Express.js. A MySQL database is used to securely store and manage application data. The project follows a modular architecture that improves maintainability, scalability, and code organization.
 
 # ❓ Core Functionalities
-
 ### 👤 User Authentication
 
 - Student Registration
