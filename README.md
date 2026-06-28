@@ -3,6 +3,8 @@
 ### End-to-End Web-Based Academic Resource Management System using HTML, CSS, JavaScript, Node.js, Express.js & MySQL
 
 A centralized web-based academic resource management platform that enables students to access, organize, and manage educational resources, books, scholarships, internships, and bookmarks through a clean, responsive, and user-friendly interface. The application integrates secure user authentication, RESTful APIs, MySQL database management, and complete CRUD operations to simplify academic resource discovery and management..
+<img width="1894" height="971" alt="Dasnboard" src="https://github.com/user-attachments/assets/3909663e-775f-4afa-814e-ba01683bf9f3" />
+
 
 # 📑 Table of Contents
 
