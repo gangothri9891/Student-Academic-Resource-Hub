@@ -17,12 +17,6 @@ A centralized platform that enables students to manage academic resources, books
 - [📸 Screenshots](#-screenshots)
 - [🚀 Installation Guide](#-installation-guide)
 - [⚙️ Database Configuration](#️-database-configuration)
-- [▶️ Running the Application](#️-running-the-application)
-- [📊 Project Status](#-project-status)
-- [💡 Future Enhancements](#-future-enhancements)
-- [📌 Final Conclusion](#-final-conclusion)
-- [👨‍💻 Author](#-author)
-- [📜 License](#-license)
 
 # 📌 Project Objective
 
