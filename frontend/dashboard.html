@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Dashboard</title>
+
+    <link rel="stylesheet" href="../css/dashboard.css">
+</head>
+<body>
+
+    <!-- Navbar -->
+
+    <nav>
+
+        <h2>Student Academic Resource Hub</h2>
+
+        <button id="logoutBtn">Logout</button>
+
+    </nav>
+
+    <!-- Welcome Section -->
+
+    <section class="welcome">
+
+        <h1>Welcome Student 👋</h1>
+
+        <p>
+            Access all your academic resources from one place.
+        </p>
+
+    </section>
+
+    <!-- Search -->
+
+    <section class="search-section">
+
+        <input
+            type="text"
+            id="searchInput"
+            placeholder="Search resources..."
+        >
+
+        <button id="searchBtn">Search</button>
+
+    </section>
+
+    <!-- Dashboard Cards -->
+
+    <section class="cards">
+
+        <div class="card">
+            <h3>📚 Resources</h3>
+            <p>Notes, syllabus and papers</p>
+            <a href="resources.html">Open</a>
+        </div>
+
+        <div class="card">
+            <h3>📘 Books</h3>
+            <p>Recommended books</p>
+            <a href="books.html">Open</a>
+        </div>
+
+        <div class="card">
+            <h3>🎓 Scholarships</h3>
+            <p>Latest scholarship links</p>
+            <a href="scholarships.html">Open</a>
+        </div>
+
+        <div class="card">
+            <h3>💼 Internships</h3>
+            <p>Internship opportunities</p>
+            <a href="internships.html">Open</a>
+        </div>
+
+        <div class="card">
+            <h3>⭐ Bookmarks</h3>
+            <p>Saved resources</p>
+            <a href="bookmarks.html">Open</a>
+
+        </div>
+        <a href="admin.html" class="card">
+
+        <h3>⚙️ Admin Panel</h3>
+
+        <p>Manage Books and Resources</p>
+
+    </a>
+
+    </section>
+
+    <script src="../js/dashboard.js"></script>
+
+</body>
+</html>

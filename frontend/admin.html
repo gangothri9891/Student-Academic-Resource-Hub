@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard</title>
+
+    <link rel="stylesheet" href="../css/dashboard.css">
+</head>
+<body>
+
+<nav>
+    <h2>Admin Dashboard</h2>
+
+    <a href="dashboard.html">
+        <button>Dashboard</button>
+    </a>
+</nav>
+
+<section class="welcome">
+
+    <h1>Admin Panel</h1>
+
+    <p>
+        Manage Resources and Books
+    </p>
+
+</section>
+
+<section class="cards">
+
+<div class="card">
+
+<h2>Add Resource</h2>
+
+<input type="text" id="rTitle" placeholder="Title"><br><br>
+
+<input type="text" id="rSubject" placeholder="Subject"><br><br>
+
+<input type="text" id="rLink" placeholder="Link"><br><br>
+
+<button id="addResourceBtn">
+Add Resource
+</button>
+
+</div>
+
+<div class="card">
+
+<h2>Add Book</h2>
+
+<input type="text" id="bTitle" placeholder="Title"><br><br>
+
+<input type="text" id="bAuthor" placeholder="Author"><br><br>
+
+<input type="text" id="bSubject" placeholder="Subject"><br><br>
+
+<input type="text" id="bLink" placeholder="Link"><br><br>
+
+<button id="addBookBtn">
+Add Book
+</button>
+
+</div>
+
+</section>
+
+<h2 style="text-align:center;margin-top:40px;">
+Resources
+</h2>
+
+<section
+class="cards"
+id="resourceContainer">
+
+</section>
+
+<h2 style="text-align:center;margin-top:40px;">
+Books
+</h2>
+
+<section
+class="cards"
+id="bookContainer">
+
+</section>
+
+<script src="../js/admin.js"></script>
+
+</body>
+</html>
