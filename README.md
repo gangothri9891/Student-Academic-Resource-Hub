@@ -4,8 +4,6 @@
 
 A centralized platform that enables students to manage academic resources, books, scholarships, internships, and bookmarks through a simple and responsive web interface.
 
----
-
 # 📑 Table of Contents
 
 - [📌 Project Objective](#-project-objective)
@@ -26,19 +24,13 @@ A centralized platform that enables students to manage academic resources, books
 - [👨‍💻 Author](#-author)
 - [📜 License](#-license)
 
----
-
 # 📌 Project Objective
 
 (Add your Project Objective here)
 
----
-
 # 📂 Project Overview
 
 (Add your Project Overview here)
-
----
 
 # ❓ Core Functionalities
 
@@ -55,14 +47,12 @@ A centralized platform that enables students to manage academic resources, books
 - Logout
 
 ### 📚 Resources
-
 - Add Resource
 - Edit Resource
 - Delete Resource
 - Search Resource
 
 ### 📖 Books
-
 - Add Books
 - Update Books
 - Delete Books
@@ -83,11 +73,8 @@ A centralized platform that enables students to manage academic resources, books
 ### 👨‍💻 Admin Panel
 
 - Manage all modules
-
----
-
+  
 # ⚙️ Project Workflow
-
 - Design UI using HTML & CSS
 - Develop frontend using JavaScript
 - Build REST APIs using Node.js & Express.js
@@ -96,11 +83,8 @@ A centralized platform that enables students to manage academic resources, books
 - Implement Authentication
 - Test APIs using Postman
 - Integrate Frontend with Backend
-
----
-
+  
 # 📊 Key Features
-
 - Secure User Authentication
 - Complete CRUD Operations
 - Search Functionality
@@ -108,11 +92,8 @@ A centralized platform that enables students to manage academic resources, books
 - Admin Panel
 - Bookmark Management
 - Modular Folder Structure
-
----
-
+  
 # 💡 Project Highlights
-
 - RESTful API Architecture
 - MySQL Database Integration
 - Password Encryption using bcrypt
@@ -120,9 +101,7 @@ A centralized platform that enables students to manage academic resources, books
 - Search-Based Navigation
 - Modular Code Structure
 - Easy to Maintain
-
----
-
+  
 # 🚀 Tech Stack
 
 ### Frontend
@@ -144,11 +123,8 @@ A centralized platform that enables students to manage academic resources, books
 - Postman
 - MySQL Workbench
 
----
-
 # 📂 Project Structure
-
-```text
+text
 Student-Academic-Resource-Hub
 │
 ├── backend
@@ -159,9 +135,6 @@ Student-Academic-Resource-Hub
 ├── server.js
 ├── package.json
 └── README.md
-```
-
----
 
 # 📸 Screenshots
 
@@ -175,84 +148,12 @@ Student-Academic-Resource-Hub
 - Bookmarks
 - Admin Panel
 
----
-
-# 🚀 Installation Guide
-
-```bash
-git clone https://github.com/gangothri9891/Student-Academic-Resource-Hub.git
-
-cd Student-Academic-Resource-Hub
-
-npm install
-```
-
----
-
 # ⚙️ Database Configuration
-
 - Install MySQL
 - Create Database
 - Import SQL File
 - Update `db.js`
-
----
-
-# ▶️ Running the Application
-
-```bash
-node server.js
-```
-
-Open frontend pages using **Live Server**.
-
----
-
-# 📊 Project Status
-
-| Module | Status |
-|---------|--------|
-| Registration | ✅ |
-| Login | ✅ |
-| Dashboard | ✅ |
-| Resources | ✅ |
-| Books | ✅ |
-| Scholarships | ✅ |
-| Internships | ✅ |
-| Bookmarks | ✅ |
-| Admin Panel | ✅ |
-| bcrypt | ✅ |
-| JWT | 🔄 In Progress |
-
----
-
-# 💡 Future Enhancements
-
-- JWT Authentication
-- Protected Routes
-- Role-Based Access Control
-- Email Verification
-- Password Reset
-- Notifications
-- Advanced Search
-- Mobile Responsiveness
-
----
-
-# 📌 Final Conclusion
-
-(Add your Final Conclusion here.)
-
----
-
-# 👨‍💻 Author
-
-**Jarupla Gangothri**
-
-B.Tech – Computer Science & Engineering (Data Science)
-
----
-
+  
 # 📜 License
 
 This project is developed for educational and learning purposes.
